@@ -1,14 +1,58 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "cuisine": 1,
+    "name": "Mi Cevichazo",
+    "lat": -33.431756,
+    "lng": -70.578719,
+    "price": 8900,
+    "description": "Todo el sabor del Perú está presente en el restaurante Mi Cevichazo. Un lugar ubicado en la comuna de La Reina, donde cada plato es una obra de arte que homenajea las tradiciones y los sabores del país vecino. Ideal para disfrutar de buenos momentos junto a un gran ambiente.
+Como dice su nombre, este local está inspirado en el magnífico ceviche, plato estrella de la cocina peruana. Por este motivo, no dejes pasar la oportunidad de degustar las diferentes variedades de ceviches y platos, preparados con productos frescos y de gran calidad. No sólo su exquisita comida es lo que llama la atención de este lugar; su personal y su grato ambiente, convierten a este punto gastronómico en uno de los mejores del sector oriente de la capital."
+  },
+  {
+    "id": 2,
+    "cuisine": 1,
+    "name": "Entre Piscos Gastronomia Peruana",
+    "lat": -33.439839,
+    "lng": -70.619334,
+    "price": 15000,
+    "description": "Entre Piscos Gastronomía Peruana es un nuevo espacio gastronómico que ha abierto sus puertas en la ya famosa calle-gastronómica de Francisco Bilbao. Un restaurante elegante y perfecto para disfrutar de la famosa cocina peruana; debes probar su famoso plato el Cebiche Mixto (Cortes de pescado, camarón, pulpo, ostión y calamar, maridados al puro estilo peruano); y presenciar su atención personalizada que lo hace un lugar ideal para todo momento.
+Entre piscos restaurante ofrece a todos su comensales una gran variedad de comida típica peruana donde destacan los cebiches, lomo saltado, ají de gallina, entre otros platos a la carta, con una variedad de cocteles y variedad de sours, chilcanos y coctelería internacional con pisco peruano; un punto que vale la pena mencionar es su cordial y profesional staf de garzones, siempre destacados por los comensales por su gran atención, que te hace sentir como en casa. En definitiva vale la pena ir a Entre Piscos Gastronomía Peruana porque te garantizamos un momento agradable y placentero ¡Descúbrelo!"
+  },
+  {
+    "id": 3,
+    "cuisine": 1,
+    "name": "Tu Cevichazo",
+    "lat": -33.438335,
+    "lng": -70.608295,
+    "price": 9900,
+    "description": "Restaurante Tu Cevichazo, sigue la línea de calidad e inspiración en el emblemático plato que ha hecho mundialmente famosa a la gastronomía peruana: El ceviche. Ubicado en Av. Francisco Bilbao a pasos de la plaza Pedro de Valdivia, este restaurante espera a todos sus comensales para brindarles la mejor experiencia gastronómica con platos deliciosos como el Pescado a lo Macho con Mariscos o el Risotto de Camarones (Arroz cremoso, vino blanco y camarones) ¡Impresionante!
+Este espacio gastronómico, primo hermano del restaurante Mi Cevichazo, espera a sus comensales con una atención de primer nivel y cordial; además todos sus productos son 100% frescos y preparados con la mejor técnica por parte del chef. Puedes disfrutar los más deliciosos ceviches y las preparaciones clásicas de la cocina del Perú con platos como Los Cevichazos (Pulpo al olivo, causa mixta y ceviche a los tres ajíes), la Jalea Mixta, el Arroz Chaufa Filete, el Seco de Carne y los más deliciosos postres de la cocina peruana como el Suspiro de Limeña, Torta Tres Leches, Crema Volteada. Finalmente el restaurante Tu Cevichazo es ese lugar que de seguro se convertirá en tu lugar favorito para degustar de las delicias de la cocina del país del norte."
+  },
+  {
+    "id": 4,
+    "cuisine": 1,
+    "name": "Perú Gustoso",
+    "lat": -33.422465,
+    "lng": -70.613470,
+    "price": 9950,
+    "description": "Acogedor sitio que te espera con excelente comida peruana y una buena atención, combinación perfecta para hacer de tu comida un momento especial. Prueba todas las delicias de un chef con nueve años de trayectoria dedicado al arte culinario.
+Perú Gustoso es un restaurante de comida típica peruana, que ofrece platos que destacan por la frescura de sus ingredientes y por una atencion siempre agradable.
+
+El lugar es un entorno sencillo que mezcla de buena manera toques modernos y decoración propia de la cultura y tradición de Perú. De su carta sobresalen una gran cantidad de ceviches, sabrosas causas, como la causa de pollo, pulpo al olivo y frescos pescados, además de clásicos como tiraditos, lomo saltado, ají de gallina, corvina a lo macho y deliciosos sours.
+
+También, este restaurante ofrece a sus clientes un exquisito menú ejecutivo durante la semana y comida para llevar."
+  },
+  {
+    "id": 5,
+    "cuisine": 1,
+    "name": "Comoenlima",
+    "lat": -33.454693,
+    "lng": -70.593171,
+    "price": 22000,
+    "description": "Dos empresarios gastronómicos con más de veinte años de experiencia en el rubro de la comida peruana en Santiago, Edilberto Pérez y Ángel Santisteban, se han unido para crear una oferta gastronómica peruana de solvente calidad gourmet en la comuna de Ñuñoa.
+Hablamos del restaurante Comoenlima. Se caracteriza por ofrecer dos cosas fundamentales para tener la mejor experiencia, primero... disfrutar de un grato ambiente junto a una atención de primera calidad y segundo posee una carta novedosa, cuidadosamente estructurada que ofrece exquisitos platos propios de la cultura gastronómica peruana y de algunas exclusividades pensadas especialmente para el deleite de cada comensal.
+
+Todo esto y más sólo lo encuentras en Comoenlima, un espacio gastronómico que te hará sentir como si estuvieras en la verdadera cuidad de Lima Perú."
   }
-}
+]
