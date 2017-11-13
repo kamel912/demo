@@ -7,7 +7,7 @@
       "lat": -33.431756,
       "lng": -70.578719,
       "price": 8900,
-      "description": "Todo el sabor del Perú está presente en el restaurante Mi Cevichazo. Un lugar ubicado en la comuna de La Reina, donde cada plato es una obra de arte que homenajea las tradiciones y los sabores del país vecino. Ideal para disfrutar de buenos momentos junto a un gran ambiente. Como dice su nombre, este local está inspirado en el magnífico ceviche, plato estrella de la cocina peruana. Por este motivo, no dejes pasar la oportunidad de degustar las diferentes variedades de ceviches y platos, preparados con productos frescos y de gran calidad. No sólo su exquisita comida es lo que llama la atención de este lugar; su personal y su grato ambiente, convierten a este punto gastronómico en uno de los mejores del sector oriente de la capital."
+      "description": "Todo el sabor del Perú está presente en el restaurante Mi Cevichazo."
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "lat": -33.439839,
       "lng": -70.619334,
       "price": 15000,
-      "description": "Entre Piscos Gastronomía Peruana es un nuevo espacio gastronómico que ha abierto sus puertas en la ya famosa calle-gastronómica de Francisco Bilbao. Un restaurante elegante y perfecto para disfrutar de la famosa cocina peruana; debes probar su famoso plato el Cebiche Mixto (Cortes de pescado, camarón, pulpo, ostión y calamar, maridados al puro estilo peruano); y presenciar su atención personalizada que lo hace un lugar ideal para todo momento. Entre piscos restaurante ofrece a todos su comensales una gran variedad de comida típica peruana donde destacan los cebiches, lomo saltado, ají de gallina, entre otros platos a la carta, con una variedad de cocteles y variedad de sours, chilcanos y coctelería internacional con pisco peruano; un punto que vale la pena mencionar es su cordial y profesional staf de garzones, siempre destacados por los comensales por su gran atención, que te hace sentir como en casa. En definitiva vale la pena ir a Entre Piscos Gastronomía Peruana porque te garantizamos un momento agradable y placentero ¡Descúbrelo!"
+      "description": "Entre Piscos Gastronomía Peruana es un nuevo espacio gastronómico que ha abierto sus puertas en la ya famosa calle-gastronómica de Francisco Bilbao."
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "lat": -33.438335,
       "lng": -70.608295,
       "price": 9900,
-      "description": "Restaurante Tu Cevichazo, sigue la línea de calidad e inspiración en el emblemático plato que ha hecho mundialmente famosa a la gastronomía peruana: El ceviche. Ubicado en Av. Francisco Bilbao a pasos de la plaza Pedro de Valdivia, este restaurante espera a todos sus comensales para brindarles la mejor experiencia gastronómica con platos deliciosos como el Pescado a lo Macho con Mariscos o el Risotto de Camarones (Arroz cremoso, vino blanco y camarones) ¡Impresionante! Este espacio gastronómico, primo hermano del restaurante Mi Cevichazo, espera a sus comensales con una atención de primer nivel y cordial; además todos sus productos son 100% frescos y preparados con la mejor técnica por parte del chef. Puedes disfrutar los más deliciosos ceviches y las preparaciones clásicas de la cocina del Perú con platos como Los Cevichazos (Pulpo al olivo, causa mixta y ceviche a los tres ajíes), la Jalea Mixta, el Arroz Chaufa Filete, el Seco de Carne y los más deliciosos postres de la cocina peruana como el Suspiro de Limeña, Torta Tres Leches, Crema Volteada. Finalmente el restaurante Tu Cevichazo es ese lugar que de seguro se convertirá en tu lugar favorito para degustar de las delicias de la cocina del país del norte."
+      "description": "Restaurante Tu Cevichazo, sigue la línea de calidad e inspiración en el emblemático plato que ha hecho mundialmente famosa a la gastronomía peruana: El ceviche."
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "lat": -33.422465,
       "lng": -70.613470,
       "price": 9950,
-      "description": "Acogedor sitio que te espera con excelente comida peruana y una buena atención, combinación perfecta para hacer de tu comida un momento especial. Prueba todas las delicias de un chef con nueve años de trayectoria dedicado al arte culinario. Perú Gustoso es un restaurante de comida típica peruana, que ofrece platos que destacan por la frescura de sus ingredientes y por una atencion siempre agradable. El lugar es un entorno sencillo que mezcla de buena manera toques modernos y decoración propia de la cultura y tradición de Perú. De su carta sobresalen una gran cantidad de ceviches, sabrosas causas, como la causa de pollo, pulpo al olivo y frescos pescados, además de clásicos como tiraditos, lomo saltado, ají de gallina, corvina a lo macho y deliciosos sours. También, este restaurante ofrece a sus clientes un exquisito menú ejecutivo durante la semana y comida para llevar."
+      "description": "Acogedor sitio que te espera con excelente comida peruana y una buena atención, combinación perfecta para hacer de tu comida un momento especial."
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "lat": -33.454693,
       "lng": -70.593171,
       "price": 22000,
-      "description": "Dos empresarios gastronómicos con más de veinte años de experiencia en el rubro de la comida peruana en Santiago, Edilberto Pérez y Ángel Santisteban, se han unido para crear una oferta gastronómica peruana de solvente calidad gourmet en la comuna de Ñuñoa. Hablamos del restaurante Comoenlima. Se caracteriza por ofrecer dos cosas fundamentales para tener la mejor experiencia, primero... disfrutar de un grato ambiente junto a una atención de primera calidad y segundo posee una carta novedosa, cuidadosamente estructurada que ofrece exquisitos platos propios de la cultura gastronómica peruana y de algunas exclusividades pensadas especialmente para el deleite de cada comensal. Todo esto y más sólo lo encuentras en Comoenlima, un espacio gastronómico que te hará sentir como si estuvieras en la verdadera cuidad de Lima Perú."
+      "description": "Dos empresarios gastronómicos con más de veinte años de experiencia en el rubro de la comida peruana en Santiago, Edilberto Pérez y Ángel Santisteban, se han unido para crear una oferta gastronómica peruana de solvente calidad gourmet en la comuna de Ñuñoa."
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "lat": -33.441242,
       "lng": -70.627530,
       "price": 16000,
-      "description": "El Eccolo Qua es una auténtica trattoria italiana que se destaca por sus apetecibles pastas con una larga tradición y un sabor de ensueño. Dedicada a la familia, los amigos y al romance. En medio de un ambiente colorido y una grata atención, puedes partir con una rica y fresca Focaccietta, deliciosa masa fina rellena con ricotta, mozarella, albahaca, orégano, alcaparras, tomate picado, salsa de tomate y aceitunas negras; o también con unas exquisitas Machas Parmesanas. En cuanto a los platos de fondo, el Pescado Capesante a la Fiorentina es uno de los insignes en compañía del Caneloni di Granchio y el Fetuchinni y Spaguetti. Platos que preparados con precisos ingredientes causan el efecto de volver pronto, en especial el Capesante, ya que su base de ostiones salteados en mantequilla, vino blanco y soya, sobre una cama de espinacas, terminado al horno con queso mozarella, deslumbra a cualquier comensal."
+      "description": "El Eccolo Qua es una auténtica trattoria italiana que se destaca por sus apetecibles pastas con una larga tradición y un sabor de ensueño."
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "lat": -33.446933,
       "lng": -70.662598,
       "price": 17000,
-      "description": "Un lugar que hace un homenaje a las trattorías de los años 30, lleno de tesoros clásicos y con recetas tan deliciosas que te harán pensar que estás en la mismísima Italia. Una decoración de época, que recuerda lo mejor de Italia y que además cobija elementos originales como antiguas fotografías o una cafetera única en su clase, hace de este restaurante un sitio interesante e imperdible. Disfruta de las mejores recetas italianas como el Spaghetti Cicciolina, que te dejará más que satisfecho. ¡Que no te lo cuenten!, si te gustan los lugares clásicos y las pastas, Il Siciliano te recibirá con excelentes variedades que vale la pena probar."
+      "description": "Un lugar que hace un homenaje a las trattorías de los años 30, lleno de tesoros clásicos y con recetas tan deliciosas que te harán pensar que estás en la mismísima Italia."
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "lat": -33.454345,
       "lng": -70.579468,
       "price": 15000,
-      "description": "Prueba la exquisita y variada cocina italiana de Da Cesare&Paolo; con increíbles pizzas a la piedra, pastas de elaboración propia, cervezas artesanales y deliciosos postres italianos tradicionales, en un ambiente amigable para la familia, amigos o en pareja. Da Cesare&Paolo es un lugar ubicado en Ñuñoa que te espera con un ambiente propicio para ir en familia o con tus amigos. Ofrecemos deliciosas pizzas a la piedra y cervezas artesanales únicas en Chile como la trapense de 9,2 °, frambuesa, mora silvestre, trigo, chocolate naranja, negra crema y muchas más. Disfruta de exquisitas pizzas, ideales para compartir como la Da Cesare, la Da Paolo, la Frutti di Mare o la Capra Affumicato con un toque de longaniza ahumada. El lugar también ofrece Pastas como lasagne bolognesa, fetuccine de huevo, Fetuccine nero di sepia, fetuccine de espinacas, Raviollis de ricotta y jamón serrano, gnocchi acompañados de salsas Frutti di mare, corsara de camarones, al pesto, Quatro Formaggi y el mejor vino italiano."
+      "description": "Prueba la exquisita y variada cocina italiana de Da Cesare&Paolo; con increíbles pizzas a la piedra, pastas de elaboración propia, cervezas artesanales y deliciosos postres italianos tradicionales."
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "lat": -33.431105,
       "lng": -70.618430,
       "price": 11000,
-      "description": "Con una atractiva propuesta, Domani invita a disfrutar de los mejores sabores de la cocina italiana junto a una grata compañía. El sitio cuenta con una terraza y espacios ideales para disfrutar deliciosos platillos como ensaladas, pastas, y sus famosas pizzas hechas con los mejores ingredientes y la mejor técnica. Domani tiene las mejores recetas para elaborar exquisitas pizzas artesanales como la Mechada, la Española, o la Chilena; en un festival de sabores y satisfacciones. Y para hacer de esto una experiencia total la carta incluye, entre otros platos, Lasaña Boloñesa, Pastas frescas, Ñoquis artesanales, etc, todo lo más destacable de la cocina italiana. El local cuenta con una amplia terraza, tragos (cocteles, destilados, vinos y cervezas), música en vivo; todo esto en un ambiente acogedor e informal. Invita a tus amigos a pasar un buen momento disfrutando en alguno de sus agradables rincones, perfectos para relajarse y disfrutar de un gran momento."
+      "description": "Con una atractiva propuesta, Domani invita a disfrutar de los mejores sabores de la cocina italiana junto a una grata compañía."
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "lat": -33.408642,
       "lng": -70.550129,
       "price": 20000,
-      "description": "Amicci es un Ristorante Italiano definido en lo novedoso y lo moderno, ubicado en uno de los mejores sectores de Las Condes. Un lugar perfecto, según sus fieles comensales, para degustar los sabores de la verdadera Cocina Italiana; con una excelente atención, una abundante carta, en un entorno ideal para ir con familiares y amigos; y no puedes dejar de pedir la deliciosa Lasagna preparada a la manera tradicional. Amicci es un lugar que viene a mostrar la alta cocina Italiana, con excelente relación precio calidad y con un espacio elegante. A cargo de todo su equipo, ha elaborado una carta única con platos que se basan en la alta gastronomía con productos originarios del país de la bota. Su carta cuenta con amplias gamas de antipastos, donde se incorporan ingredientes italianísimos gourmet, como su queso Grana Padano y Mozzarella Di Búfala D.O.P. Su ambiente elegante y bien decorado, envuelve y hace que cada momento sea especial; el primer piso es bastante amplio, mientras el segundo piso es más íntimo y reservado."
+      "description": "Amicci es un Ristorante Italiano definido en lo novedoso y lo moderno, ubicado en uno de los mejores sectores de Las Condes."
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "lat": -33.384855,
       "lng": -70.553858,
       "price": 16000,
-      "description": "Exquisita cocina chilena, en un lugar ideal para ir en familia, donde podrás encontrar preparaciones nacionales para todos los gustos. La Casa Vieja (Vitacura) se trata de un restaurante de comida sencilla, simple, y sin mayores pretensiones que servir cocina sabrosa chilena. Los platos favoritos son la Plateada al Horno,el Lomo criollo, el Congrio morrón, el Costillar ahumado, el Filete Casa Vieja, y la Escalopa Napolitana. También sobresalen los postres como el Flan y el Mote con Huesillo. El ambiente sencillo y tradicional, y una atención amena son dos componentes esenciales de este clásico y prestigioso restaurante familiar."
+      "description": "Exquisita cocina chilena, en un lugar ideal para ir en familia, donde podrás encontrar preparaciones nacionales para todos los gustos."
     },
     {
       "id": 12,
@@ -106,7 +106,7 @@
       "lat": -33.430148,
       "lng": -70.636700,
       "price": 17000,
-      "description": "Ven a un lugar lleno de poesía, donde su ambiente como su carta están inspirados en la obra de Pablo Neruda... un sitio ideal para que disfrutes del arte y la buena gastronomía. Este agradable y original sitio te espera en una ambientación que recrea y da un homenaje a las famosas casas del poeta Pablo Neruda, con una preocupación única por los detalles en sus tres niveles. Aquí podrás disfrutar de la real buena mesa, con platos exquisitos basados en la cocina chilena y toda una mezcla de sabores del mediterráneo, tal como le gustaba comer a este poeta, fanático de la belleza y la buena mesa."
+      "description": "Ven a un lugar lleno de poesía, donde su ambiente como su carta están inspirados en la obra de Pablo Neruda... un sitio ideal para que disfrutes del arte y la buena gastronomía."
     },
     {
       "id": 13,
@@ -115,7 +115,7 @@
       "lat": -33.432433,
       "lng": -70.634893,
       "price": 13000,
-      "description": "Un lugar lleno de estilo que ofrece comida saludable y un ambiente donde pasar un gran momento degustando la mejor comida. Si buscas un lugar entretenido, original y donde puedas realizar desde una reunión de negocios, hasta reunirte con amigos o con la familia, definitivamente Viva la Vida es el sitio perfecto, donde además de encontrarte con un lugar minimalista y moderno, te sorprenderán de las ricas recetas que ofrecen. Sí, porque la comida saludable nunca fue más gourmet y deliciosa, ven y deleitate probando platos como ricos Cebiches, Pastel de Papas Naturista, Tortilla de Quinoa, Carpaccio de salmon, generosas Machas parmesanas, Caldillo de mariscos y ricas ensaladas."
+      "description": "Un lugar lleno de estilo que ofrece comida saludable y un ambiente donde pasar un gran momento degustando la mejor comida."
     },
     {
       "id": 14,
@@ -124,7 +124,7 @@
       "lat": -33.442760,
       "lng": -70.656672,
       "price": 12000,
-      "description": "En La Chimenea cada momento es único. Su ambiente envuelve a cada comensal, haciendo que su visita sea recordada por siempre. El restaurante tiene un segundo piso acogedor, con un colorido bar, y un tercer piso nerudiano, hasta con su mascarón de proa; perfectos para acompañaran todos sus exquisitos platos. Con más de 50 años, la carta es bastante extensa, entre carnes, pescados y mariscos, además de Tablas y entradas. Las especialidades son la Corvina con salsa de ostras, los diversos Ceviches, la carne de Wagyu, las Parrilladas, las frescas Ostras, la Paila y el Lomo a lo Pobre. Siempre encontrarás múltiples espectáculos y shows con los cuales entretienen continuamente a sus comensales, haciendo de cada velada especial y diferente."
+      "description": "En La Chimenea cada momento es único. Su ambiente envuelve a cada comensal, haciendo que su visita sea recordada por siempre."
     },
     {
       "id": 15,
@@ -133,7 +133,7 @@
       "lat": -33.453633,
       "lng": -70.664909,
       "price": 21000,
-      "description": "Auténticas especialidades de carne y pescado en un sitio con un ambiente selecto. Donde se pueden disfrutar tantos almuerzos de negocios como reuniones familiares, todo en un ambiente único. Ana María, situado en el centro de Santiago, es un restaurante de renombre que ha crecido con los años, donde su clientela fija y tradicional ha sabido reconocer su calidad todos estos años. Cada comensal que visita este lugar, tiene opiniones como \"Demasiado bueno!!!\", o \"Fue un agrado visitar este restaurant. Lo recomiendo sobre todo para probar sus carnes exóticas\". Sin dudar Ana María es ese restaurante que debes visitar."
+      "description": "Auténticas especialidades de carne y pescado en un sitio con un ambiente selecto."
     }
   ]
 }
