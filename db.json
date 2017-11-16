@@ -7,6 +7,7 @@
       "lat": -33.431756,
       "lng": -70.578719,
       "price": 8900,
+      "image": "https://www.atrapalo.cl/common/photo/res/44559/106814/ticr_0_0.jpg",
       "description": "Todo el sabor del Perú está presente en el restaurante Mi Cevichazo."
     },
     {
@@ -16,6 +17,7 @@
       "lat": -33.439839,
       "lng": -70.619334,
       "price": 15000,
+      "image": "https://www.atrapalo.cl/common/photo/res/48346/129426/ticr_0_0.jpg",
       "description": "Entre Piscos Gastronomía Peruana es un nuevo espacio gastronómico que ha abierto sus puertas en la ya famosa calle-gastronómica de Francisco Bilbao."
     },
     {
@@ -25,6 +27,7 @@
       "lat": -33.438335,
       "lng": -70.608295,
       "price": 9900,
+      "image": "",
       "description": "Restaurante Tu Cevichazo, sigue la línea de calidad e inspiración en el emblemático plato que ha hecho mundialmente famosa a la gastronomía peruana: El ceviche."
     },
     {
@@ -43,6 +46,7 @@
       "lat": -33.454693,
       "lng": -70.593171,
       "price": 22000,
+      "image": "",
       "description": "Dos empresarios gastronómicos con más de veinte años de experiencia en el rubro de la comida peruana en Santiago, Edilberto Pérez y Ángel Santisteban, se han unido para crear una oferta gastronómica peruana de solvente calidad gourmet en la comuna de Ñuñoa."
     },
     {
@@ -52,6 +56,7 @@
       "lat": -33.441242,
       "lng": -70.627530,
       "price": 16000,
+      "image": "",
       "description": "El Eccolo Qua es una auténtica trattoria italiana que se destaca por sus apetecibles pastas con una larga tradición y un sabor de ensueño."
     },
     {
@@ -61,6 +66,7 @@
       "lat": -33.446933,
       "lng": -70.662598,
       "price": 17000,
+      "image": "",
       "description": "Un lugar que hace un homenaje a las trattorías de los años 30, lleno de tesoros clásicos y con recetas tan deliciosas que te harán pensar que estás en la mismísima Italia."
     },
     {
@@ -70,6 +76,7 @@
       "lat": -33.454345,
       "lng": -70.579468,
       "price": 15000,
+      "image": "",
       "description": "Prueba la exquisita y variada cocina italiana de Da Cesare&Paolo; con increíbles pizzas a la piedra, pastas de elaboración propia, cervezas artesanales y deliciosos postres italianos tradicionales."
     },
     {
@@ -79,6 +86,7 @@
       "lat": -33.431105,
       "lng": -70.618430,
       "price": 11000,
+      "image": "",
       "description": "Con una atractiva propuesta, Domani invita a disfrutar de los mejores sabores de la cocina italiana junto a una grata compañía."
     },
     {
@@ -88,6 +96,7 @@
       "lat": -33.408642,
       "lng": -70.550129,
       "price": 20000,
+      "image": "",
       "description": "Amicci es un Ristorante Italiano definido en lo novedoso y lo moderno, ubicado en uno de los mejores sectores de Las Condes."
     },
     {
@@ -97,6 +106,7 @@
       "lat": -33.384855,
       "lng": -70.553858,
       "price": 16000,
+      "image": "",
       "description": "Exquisita cocina chilena, en un lugar ideal para ir en familia, donde podrás encontrar preparaciones nacionales para todos los gustos."
     },
     {
@@ -106,6 +116,7 @@
       "lat": -33.430148,
       "lng": -70.636700,
       "price": 17000,
+      "image": "",
       "description": "Ven a un lugar lleno de poesía, donde su ambiente como su carta están inspirados en la obra de Pablo Neruda... un sitio ideal para que disfrutes del arte y la buena gastronomía."
     },
     {
@@ -115,6 +126,7 @@
       "lat": -33.432433,
       "lng": -70.634893,
       "price": 13000,
+      "image": "",
       "description": "Un lugar lleno de estilo que ofrece comida saludable y un ambiente donde pasar un gran momento degustando la mejor comida."
     },
     {
@@ -124,6 +136,7 @@
       "lat": -33.442760,
       "lng": -70.656672,
       "price": 12000,
+      "image": "",
       "description": "En La Chimenea cada momento es único. Su ambiente envuelve a cada comensal, haciendo que su visita sea recordada por siempre."
     },
     {
@@ -133,6 +146,7 @@
       "lat": -33.453633,
       "lng": -70.664909,
       "price": 21000,
+      "image": "",
       "description": "Auténticas especialidades de carne y pescado en un sitio con un ambiente selecto."
     }
   ]
